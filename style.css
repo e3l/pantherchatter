@@ -1,7 +1,3 @@
-.gm-scroll-view {
-    background-color: #efefef;
-}
-
 .mx_RoomSubList_label {
     background-color: #d8d8d8;
 }
@@ -12,15 +8,7 @@
     text-align: center;
 }
 
-.mx_BottomLeftMenu {
-    background-color: #efefef; 
-}
-
-.mx_RoomHeader {
-    background-color: #8ccfff;
-}
-
-.mx_RoomHeader_rightRow{
+.mx_RoomHeader_rightRow, .mx_RoomHeader{
     background-color: #8ccfff;
 }
 
@@ -28,10 +16,10 @@
     color: black;
 }
 
-::selection {
-    background-color: #efefef;
-}
-
 .mx_RoomDropTarget {
     border: 1px dashed black;
+}
+
+.mx_MatrixChat .mx_LeftPanel, .mx_BottomLeftMenu, .gm-scroll-view {
+    background-color: #efefef;
 }
