@@ -23,3 +23,19 @@
 .mx_MatrixChat .mx_LeftPanel, .mx_BottomLeftMenu, .gm-scroll-view {
     background-color: #efefef;
 }
+
+.notifications {
+    background-color: #99ff15;
+    font-family: serif;
+    font-size: 30px;
+    height: 4%;
+    width: 100%;
+    text-align: center;
+}
+
+.mx_GuestWarningBar {
+    background-color: #99ff15;
+    border: 1px solid black;
+    color: black;
+    text-align: center;
+}
