@@ -39,3 +39,19 @@
     color: black;
     text-align: center;
 }
+
+.mx_SearchBar_button {
+    background-color: gray;
+}
+
+.mx_SearchBar_unselected {
+    background-color: white;
+    color: black;
+    border: 1px solid black;
+}
+
+.mx_RoomHeader_textButton, .mx_RoomSettings_integrationsButton, .mx_RoomSettings_leaveButton {
+    background-color: #efefef;
+    color: black;
+    border: 1px solid black;
+}
