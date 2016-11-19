@@ -1,13 +1,13 @@
 {
-    "default_hs_url": "https://matrix.org",
+    "default_hs_url": "https://40.112.211.111:8448",
     "default_is_url": "https://vector.im",
-    "brand": "Riot",
+    "brand": "JLS Chatterbox",
     "integrations_ui_url": "https://scalar.vector.im/",
     "integrations_rest_url": "https://scalar.vector.im/api",
     "enableLabs": true,
     "roomDirectory": {
         "servers": [
-            "matrix.org"
+            "40.112.211.111"
         ],
         "serverConfig": {
             "matrix.org": {
