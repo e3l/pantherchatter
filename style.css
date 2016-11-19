@@ -56,6 +56,6 @@
     border: 1px solid black;
 }
 
-.mx_Login_label, .mx_Login_radio {
+.mx_Login_label, .mx_Login_radio, .mx_Login_create, .mx_Login_links {
     visibility: hidden;
 }
