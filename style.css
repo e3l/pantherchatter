@@ -27,7 +27,7 @@
 .notifications {
     background-color: #99ff15;
     font-family: serif;
-    font-size: 30px;
+    font-size: 200%;
     height: 4%;
     width: 100%;
     text-align: center;
@@ -50,7 +50,7 @@
     border: 1px solid black;
 }
 
-.mx_RoomHeader_textButton, .mx_RoomSettings_integrationsButton, .mx_RoomSettings_leaveButton {
+.mx_RoomHeader_textButton, .mx_RoomSettings_integrationsButton, .mx_RoomSettings_leaveButton, .mx_UserSettings_button,  .mx_Text_Button{
     background-color: #efefef;
     color: black;
     border: 1px solid black;
