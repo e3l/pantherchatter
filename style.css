@@ -56,7 +56,7 @@
     border: 1px solid black;
 }
 
-.mx_Login_label, .mx_Login_radio, .mx_Login_create, .mx_Login_links{
+.mx_Login_label, .mx_Login_radio, .mx_Login_links, .mx_ServerConfig{
     visibility: hidden;
 }
 .mx_RoomHeader_wrapper{
@@ -64,5 +64,10 @@
     margin-right: 15px;
 }
 a.mx_Login_forgot:visited, a.mx_Login_forgot:hover{
-    color:black;
+    color: black;
+}
+
+.mx_RoomView_topUnreadMessagesBar {
+    visibility: hidden;
+    background-color: #efefef;
 }
