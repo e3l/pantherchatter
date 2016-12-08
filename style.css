@@ -27,9 +27,8 @@
 .notifications {
     background-color: #99ff15;
     font-family: serif;
-    font-size: 2.4vh;
-    font-size: 2.4vm;
-    height: 25px;
+    font-size: 2vw;
+    height: 2.5vw;
     width: 100%;
     text-align: center;
 }
@@ -71,4 +70,8 @@ a.mx_Login_forgot:visited, a.mx_Login_forgot:hover{
 .mx_RoomView_topUnreadMessagesBar {
     visibility: hidden;
     background-color: #efefef;
+}
+
+.mx_RoomHeader_nametext:hover{
+    color: black;
 }
